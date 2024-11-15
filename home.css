@@ -1,0 +1,4307 @@
+/* Frame 1410103874 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 40px 80px 24px;
+gap: 387px;
+
+position: absolute;
+width: 1440px;
+height: 112px;
+left: calc(50% - 1440px/2);
+top: 0px;
+
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Xplora.io */
+
+position: relative;
+width: 1440px;
+height: 5223px;
+
+background: #000319;
+
+
+/* Group 1410103855 */
+
+position: absolute;
+width: 1907.79px;
+height: 864.63px;
+left: calc(50% - 1907.79px/2 - 20.11px);
+top: -672px;
+
+
+
+/* Ellipse 1228 */
+
+position: absolute;
+width: 864px;
+height: 864px;
+left: -254px;
+top: -671.37px;
+
+background: #365F9D;
+filter: blur(212.211px);
+
+
+/* Ellipse 1229 */
+
+position: absolute;
+width: 773.05px;
+height: 773.05px;
+left: 880.74px;
+top: -672px;
+
+background: #365F9D;
+filter: blur(303.158px);
+
+
+/* Ellipse 1230 */
+
+position: absolute;
+width: 773.05px;
+height: 773.05px;
+left: 386.42px;
+top: -622.11px;
+
+background: #06138B;
+filter: blur(303.158px);
+
+
+/* Light */
+
+position: absolute;
+width: 2041.96px;
+height: 1920.37px;
+left: calc(50% - 2041.96px/2 + 948.2px);
+top: -967.66px;
+
+transform: rotate(43.79deg);
+
+
+/* light */
+
+position: absolute;
+width: 1419.38px;
+height: 1416px;
+left: 89.42px;
+top: -385.87px;
+
+transform: matrix(0.99, 0.16, -0.1, 1, 0, 0);
+
+
+/* Rectangle 8416 */
+
+position: absolute;
+width: 318.77px;
+height: 1180.96px;
+left: 368.77px;
+top: -338.97px;
+
+background: linear-gradient(181.2deg, #598CC7 -18.65%, rgba(83, 162, 255, 0) 80.36%);
+mix-blend-mode: plus-lighter;
+opacity: 0.3;
+filter: blur(12.7102px);
+transform: matrix(0.99, 0.15, -0.09, 1, 0, 0);
+
+
+/* Rectangle 8413 */
+
+position: absolute;
+width: 378.64px;
+height: 1261.94px;
+left: 415.74px;
+top: -213.91px;
+
+background: linear-gradient(181.08deg, rgba(89, 140, 199, 0.5) -28.13%, rgba(50, 97, 153, 0) 85.93%);
+mix-blend-mode: plus-lighter;
+opacity: 0.86;
+filter: blur(23.3021px);
+transform: matrix(1, 0.01, 0.05, 1, 0, 0);
+
+
+/* Vector 3412 */
+
+position: absolute;
+width: 783.16px;
+height: 957.84px;
+left: 674.44px;
+top: -174px;
+
+mix-blend-mode: plus-lighter;
+filter: blur(16.947px);
+transform: matrix(0.77, 0.64, -0.7, 0.71, 0, 0);
+
+
+/* Vector 3410 */
+
+position: absolute;
+width: 885.7px;
+height: 1100.87px;
+left: 711.94px;
+top: -207.5px;
+
+mix-blend-mode: plus-lighter;
+filter: blur(14.8286px);
+transform: matrix(0.83, 0.56, -0.62, 0.79, 0, 0);
+
+
+/* Vector 3411 */
+
+position: absolute;
+width: 570.31px;
+height: 599.71px;
+left: 741.44px;
+top: -237.5px;
+
+mix-blend-mode: plus-lighter;
+filter: blur(14.8286px);
+transform: matrix(0.85, 0.53, -0.58, 0.81, 0, 0);
+
+
+/* Rectangle 8417 */
+
+position: absolute;
+width: 468.72px;
+height: 1030.28px;
+left: 604.65px;
+top: -344.61px;
+
+background: linear-gradient(180.09deg, rgba(89, 140, 199, 0.5) -3.22%, rgba(83, 162, 255, 0) 111.41%);
+filter: blur(25.4205px);
+transform: matrix(1, 0.02, 0.04, 1, 0, 0);
+
+
+/* Image */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: calc(50% - 1024px/2 - 2099.5px);
+
+
+
+/* Rectangle 8418 */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #000000 0%, rgba(0, 0, 0, 0) 100%);
+
+
+/* Rectangle 8419 */
+
+position: absolute;
+width: 1440px;
+height: 1024px;
+left: 0px;
+top: 0px;
+
+background: url(.png);
+background-blend-mode: overlay;
+opacity: 0.13;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 560px;
+height: 250px;
+left: calc(50% - 560px/2);
+top: 232px;
+
+
+
+/* Frame 1410103850 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 560px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1410103849 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 428px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector 3413 */
+
+width: 155px;
+height: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Introducing */
+
+width: 70px;
+height: 16px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 13.7072px;
+line-height: 16px;
+text-align: center;
+
+background: linear-gradient(180deg, #97B5FF -8.06%, #DFDFDF 74.19%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector 3414 */
+
+width: 155px;
+height: 0px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 1410103853 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 560px;
+height: 234px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Xplora.io */
+
+width: 465px;
+height: 144px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 119.938px;
+line-height: 144px;
+/* identical to box height */
+text-align: center;
+
+background: linear-gradient(0deg, #97B5FF 10.07%, #DFDFDF 54.51%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Analyze your data, create your dashboard, and unite your team */
+
+width: 488px;
+height: 66px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 300;
+font-size: 27.4143px;
+line-height: 33px;
+text-align: center;
+
+background: linear-gradient(360deg, #90AFFB -17.55%, #D3E7FF 61.23%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Frame 1410103874 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 40px 80px 24px;
+gap: 387px;
+
+position: absolute;
+width: 1440px;
+height: 112px;
+left: calc(50% - 1440px/2);
+top: 0px;
+
+backdrop-filter: blur(2px);
+/* Note: backdrop-filter has minimal browser support */
+
+
+/* Xplora.io */
+
+width: 91px;
+height: 29px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+text-align: center;
+
+color: #F1F3F8;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 1410103873 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 16px 24px;
+gap: 24px;
+
+width: 258px;
+height: 48px;
+
+border: 1px solid #849FBD;
+border-radius: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* About */
+
+width: 53px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 15px;
+/* identical to box height, or 85% */
+display: flex;
+align-items: center;
+
+color: #B5CAE2;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Blog */
+
+width: 39px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 15px;
+/* identical to box height, or 85% */
+display: flex;
+align-items: center;
+
+color: #B5CAE2;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Support */
+
+width: 70px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 15px;
+/* identical to box height, or 85% */
+display: flex;
+align-items: center;
+
+color: #B5CAE2;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Frame 84 */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 16px 24px;
+gap: 6.15px;
+
+width: 148px;
+height: 48px;
+
+background: #010625;
+border: 0.5px solid #6F7289;
+box-shadow: inset 0px -4px 4px rgba(37, 48, 117, 0.18), inset 0px 4px 4px rgba(7, 25, 140, 0.38);
+border-radius: 50px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Get Started */
+
+width: 100px;
+height: 16px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 15px;
+/* identical to box height, or 85% */
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* dark FEATURE 5 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 62px 50px;
+gap: 10px;
+
+position: absolute;
+width: 1440px;
+height: 600.66px;
+left: calc(50% - 1440px/2);
+top: 1424px;
+
+
+
+/* content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 80px;
+
+width: 1340px;
+height: 476.66px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* heading */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 27px;
+
+width: 653px;
+height: 149px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Second Headline */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 228px;
+height: 62px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* FEATURES */
+
+width: 228px;
+height: 62px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 52px;
+line-height: 62px;
+/* identical to box height, or 119% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Sub Heading */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 10px;
+gap: 10px;
+
+width: 653px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Most calendars are designed for teams. Slate is designed for freelancers who want a simple way to plan their schedule. */
+
+width: 633px;
+height: 60px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 30px;
+/* or 125% */
+text-align: center;
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 20 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 27px;
+
+width: 1340px;
+height: 247.66px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* content rows */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 20px;
+gap: 40px;
+
+width: 1340px;
+height: 247.66px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Text Block */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 269px;
+height: 207.66px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* HEADLINE */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 229px;
+height: 91.66px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ic:round-restaurant-menu */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 19px 3px;
+gap: 10px;
+
+width: 31.49px;
+height: 61.66px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 25.49px;
+height: 23.66px;
+
+background: #7B8BF4;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Title */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 229px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* A single source of truth */
+
+width: 229px;
+height: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+text-align: center;
+letter-spacing: 0.1px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Paragraphe */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 271px;
+height: 116px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* When you add work to your Slate calendar we automatically calculate useful insights */
+
+width: 251px;
+height: 96px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: center;
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Text Block */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 269px;
+height: 206px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* HEADLINE */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 173px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* mdi:alien-outline */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 15px 2px;
+gap: 10px;
+
+width: 33px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 29px;
+height: 30px;
+
+background: #7B8BF4;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Title */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 173px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Intuitive interface */
+
+width: 173px;
+height: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Paragraphe */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 271px;
+height: 116px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* When you add work to your Slate calendar we automatically calculate useful insights */
+
+width: 251px;
+height: 96px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: center;
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Text Block */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 269px;
+height: 199px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* HEADLINE */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+width: 125px;
+height: 83px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* mdi:all-inclusive */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 17px 0px;
+gap: 10px;
+
+width: 41px;
+height: 53px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+width: 41px;
+height: 19px;
+
+background: #7B8BF4;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Title */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 125px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Or with rules */
+
+width: 125px;
+height: 30px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Paragraphe */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 271px;
+height: 116px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* When you add work to your Slate calendar we automatically calculate useful insights */
+
+width: 251px;
+height: 96px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+text-align: center;
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* dark CONTENT 8 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 50px 199px;
+gap: 35px;
+
+position: absolute;
+width: 1440px;
+height: 1004px;
+left: 0px;
+top: 2124.67px;
+
+
+
+/* content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 44px;
+
+width: 1087px;
+height: 904px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Text Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 583px;
+height: 150px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Second Headline */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 221px;
+height: 82px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Gallery */
+
+width: 201px;
+height: 62px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 52px;
+line-height: 62px;
+/* identical to box height, or 119% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Sub Heading */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 583px;
+height: 68px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* We focus on ergonomics and meeting you where you work. It's only a keystroke away. */
+
+width: 563px;
+height: 48px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cards */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 33px;
+
+width: 999px;
+height: 285px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 225px;
+height: 285px;
+
+background: url(.jpg), #FFFFFF;
+/* shadow */
+box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 1 */
+
+width: 225px;
+height: 285px;
+
+background: url(.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 225px;
+height: 285px;
+
+background: url(.jpg), #FFFFFF;
+/* shadow */
+box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 1 */
+
+width: 225px;
+height: 285px;
+
+background: url(.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 225px;
+height: 285px;
+
+background: url(.jpg), #FFFFFF;
+/* shadow */
+box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 1 */
+
+width: 225px;
+height: 285px;
+
+background: url(.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 225px;
+height: 285px;
+
+background: url(.jpg), #FFFFFF;
+/* shadow */
+box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Rectangle 1 */
+
+width: 225px;
+height: 285px;
+
+background: url(.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Cards */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 33px;
+
+width: 1087px;
+height: 285px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 395px;
+height: 285px;
+
+background: url(.jpg), #FFFFFF;
+/* shadow */
+box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Rectangle 1 */
+
+width: 395px;
+height: 285px;
+
+background: url(.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 225px;
+height: 285px;
+
+background: url(.jpg), #FFFFFF;
+/* shadow */
+box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Rectangle 1 */
+
+width: 225px;
+height: 285px;
+
+background: url(.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 401px;
+height: 285px;
+
+background: url(.jpg), #FFFFFF;
+/* shadow */
+box-shadow: 0px 4px 31px rgba(0, 0, 0, 0.15);
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Rectangle 1 */
+
+width: 401px;
+height: 285px;
+
+background: url(.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* button */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 30px;
+
+width: 159px;
+height: 52px;
+
+/* light text */
+border: 1px solid #FFFFFF;
+filter: drop-shadow(0px 4px 31px rgba(0, 0, 0, 0.15));
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 99px;
+height: 45px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* See more */
+
+width: 79px;
+height: 25px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 25px;
+/* identical to box height, or 147% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* light PARTNER 1 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 50px 20px;
+gap: 50px;
+
+position: absolute;
+width: 1440px;
+height: 472.55px;
+left: calc(50% - 1440px/2);
+top: 3228.67px;
+
+
+
+/* Text Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+width: 583px;
+height: 150px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Second Headline */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 258px;
+height: 82px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Partners */
+
+width: 238px;
+height: 62px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 52px;
+line-height: 62px;
+/* identical to box height, or 119% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Sub Heading */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 583px;
+height: 68px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* We focus on ergonomics and meeting you where you work. It's only a keystroke away. */
+
+width: 563px;
+height: 48px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Brands */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 74px;
+
+width: 831.97px;
+height: 70.55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* logos:apple-app-store */
+
+width: 60px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: linear-gradient(180deg, #17C9FB 0%, #1A74E8 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 14.27%;
+right: 14.94%;
+top: 18.24%;
+bottom: 19.23%;
+
+background: #FFFFFF;
+
+
+/* logos:apiary */
+
+width: 60px;
+height: 60.7px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.88%;
+right: 25.18%;
+top: 0%;
+bottom: 57.36%;
+
+background: #13A049;
+opacity: 0.5;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.94%;
+right: 50.12%;
+top: 0%;
+bottom: 57.3%;
+
+background: #A2CC39;
+opacity: 0.5;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.27%;
+top: 0%;
+bottom: 57.3%;
+
+background: linear-gradient(270deg, #37BDA6 -0.01%, #8AD3B8 100%);
+opacity: 0.9;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.27%;
+top: 14.23%;
+bottom: 0.39%;
+
+background: linear-gradient(270deg, #4BB6AD 49.99%, #78BBC1 100%);
+
+
+/* Vector */
+
+position: absolute;
+left: 49.88%;
+right: 0.27%;
+top: 14.23%;
+bottom: 0.39%;
+
+background: linear-gradient(90deg, #4379A7 -0.02%, #7CC9B8 100.02%);
+
+
+/* Vector */
+
+position: absolute;
+left: 49.88%;
+right: 25.18%;
+top: 71.14%;
+bottom: 0.39%;
+
+background: #231F20;
+opacity: 0.05;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.94%;
+right: 50.12%;
+top: 71.2%;
+bottom: 0.33%;
+
+background: #231F20;
+opacity: 0.1;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 50.12%;
+top: 28.47%;
+bottom: 43.06%;
+
+background: #231F20;
+opacity: 0.05;
+
+
+/* Vector */
+
+position: absolute;
+left: 49.88%;
+right: 0.27%;
+top: 28.47%;
+bottom: 43.06%;
+
+background: #231F20;
+opacity: 0.05;
+
+
+/* logos:android-icon */
+
+width: 60px;
+height: 70.55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0.28%;
+top: 0.28%;
+bottom: 0.13%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 2.45%;
+right: 2.73%;
+top: 33.34%;
+bottom: 30.26%;
+
+background: #A4C639;
+
+
+/* Vector */
+
+position: absolute;
+left: 31.35%;
+right: 31.64%;
+top: 61.4%;
+bottom: 2.21%;
+
+background: #A4C639;
+
+
+/* Vector */
+
+position: absolute;
+left: 18.91%;
+right: 19.19%;
+top: 2.36%;
+bottom: 21.13%;
+
+background: #A4C639;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.99%;
+right: 33.27%;
+top: 18.25%;
+bottom: 77.36%;
+
+background: #FFFFFF;
+
+
+/* logos:basecamp */
+
+width: 72.11px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.31%;
+right: 0.08%;
+top: 0%;
+bottom: 0.22%;
+
+background: #B6DEFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 7.35%;
+right: 6.5%;
+top: 24.25%;
+bottom: 8.38%;
+
+background: #66CC66;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.62%;
+right: 34.01%;
+top: 24.25%;
+bottom: 38.85%;
+
+background: #17AD49;
+
+
+/* logos:airbnb */
+
+width: 60px;
+height: 64.69px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0.17%;
+
+background: #E0565B;
+
+
+/* logos:ibm */
+
+width: 149.85px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0.1%;
+
+background: #1F70C1;
+
+
+/* button */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px 30px;
+
+width: 179px;
+height: 52px;
+
+/* light text */
+border: 1px solid #FFFFFF;
+filter: drop-shadow(0px 4px 31px rgba(0, 0, 0, 0.15));
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* text */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 119px;
+height: 45px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* All Partners */
+
+width: 99px;
+height: 25px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 25px;
+/* identical to box height, or 147% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* light TESTIMONIAL 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 50px 20px;
+gap: 50px;
+
+position: absolute;
+width: 1440px;
+height: 884px;
+left: calc(50% - 1440px/2);
+top: 3801.21px;
+
+
+
+/* Second Headline */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 356px;
+height: 82px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Testimonials */
+
+width: 336px;
+height: 62px;
+
+font-family: 'Inria Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 52px;
+line-height: 62px;
+/* identical to box height, or 119% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* content */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 23px;
+
+width: 883px;
+height: 652px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* testimonial-items */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 430px;
+height: 652px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Card */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 40px;
+gap: 30px;
+
+width: 430px;
+height: 328px;
+
+background: #040828;
+border: 1px solid #364250;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* client */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 13px;
+
+width: 162px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* avatar */
+
+width: 50px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(.png);
+
+
+/* text content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 99px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 10px;
+
+width: 99px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Claire Bell */
+
+width: 79px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Subtitle */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 10px;
+gap: 10px;
+
+width: 90px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Designer */
+
+width: 70px;
+height: 24px;
+
+/* Subtitle */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Paragraphe */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 327px;
+height: 168px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Slate helps you see how many more days you need to work to reach your financial goal for the month and year. Slate helps you see how many more days you need to work to reach your financial goal for the month and year.your financial goal for the month and year. */
+
+width: 327px;
+height: 168px;
+
+/* Paragraphe */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Card */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 40px;
+gap: 30px;
+
+width: 430px;
+height: 304px;
+
+background: #040828;
+border: 1px solid #364250;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* client */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 13px;
+
+width: 179px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* avatar */
+
+width: 50px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(.png);
+
+
+/* text content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 116px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 10px;
+
+width: 116px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ralph Fisher */
+
+width: 96px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Subtitle */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 10px;
+gap: 10px;
+
+width: 90px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Designer */
+
+width: 70px;
+height: 24px;
+
+/* Subtitle */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Paragraphe */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 324px;
+height: 144px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Slate helps you see how many more days you need to work to reach your financial goal for the month and year. Slate helps you see how many more days you need to work to reach your financial goal for the month and year. */
+
+width: 324px;
+height: 144px;
+
+/* Paragraphe */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* testimonial-items */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 430px;
+height: 652px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Card */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 40px;
+gap: 30px;
+
+width: 430px;
+height: 328px;
+
+background: #040828;
+border: 1px solid #364250;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* client */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 13px;
+
+width: 162px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* avatar */
+
+width: 50px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(.png);
+
+
+/* text content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 99px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 10px;
+
+width: 99px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Claire Bell */
+
+width: 79px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Subtitle */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 10px;
+gap: 10px;
+
+width: 90px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Designer */
+
+width: 70px;
+height: 24px;
+
+/* Subtitle */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Paragraphe */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 327px;
+height: 168px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Slate helps you see how many more days you need to work to reach your financial goal for the month and year. Slate helps you see how many more days you need to work to reach your financial goal for the month and year.your financial goal for the month and year. */
+
+width: 327px;
+height: 168px;
+
+/* Paragraphe */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Card */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 40px;
+gap: 30px;
+
+width: 430px;
+height: 304px;
+
+background: #040828;
+border: 1px solid #364250;
+border-radius: 10px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* client */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 13px;
+
+width: 179px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* avatar */
+
+width: 50px;
+height: 50px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: url(.png);
+
+
+/* text content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+width: 116px;
+height: 48px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 10px;
+
+width: 116px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ralph Fisher */
+
+width: 96px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Subtitle */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 10px;
+gap: 10px;
+
+width: 90px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Designer */
+
+width: 70px;
+height: 24px;
+
+/* Subtitle */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Paragraphe */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 324px;
+height: 144px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Slate helps you see how many more days you need to work to reach your financial goal for the month and year. Slate helps you see how many more days you need to work to reach your financial goal for the month and year. */
+
+width: 324px;
+height: 144px;
+
+/* Paragraphe */
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* light FOOTER 4 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 107px 0px;
+
+position: absolute;
+width: 1440px;
+height: 437px;
+left: 0px;
+bottom: 0px;
+
+
+
+/* content */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 199px;
+
+width: 1031px;
+height: 223px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* column */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 56px;
+
+width: 513px;
+height: 223px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 75px;
+
+width: 513px;
+height: 223px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* List */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+width: 121px;
+height: 223px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Title */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 99px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Fingertipe */
+
+width: 99px;
+height: 30px;
+
+/* Title */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 19px;
+
+width: 121px;
+height: 153px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 47px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Home */
+
+width: 47px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 75px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Examples */
+
+width: 75px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 56px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Pricing */
+
+width: 56px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 65px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Updates */
+
+width: 65px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* List */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+width: 121px;
+height: 223px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Title */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 101px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Resources */
+
+width: 101px;
+height: 30px;
+
+/* Title */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 19px;
+
+width: 121px;
+height: 153px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 47px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Home */
+
+width: 47px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 75px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Examples */
+
+width: 75px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 56px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Pricing */
+
+width: 56px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 65px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Updates */
+
+width: 65px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* List */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+width: 121px;
+height: 223px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Title */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 59px;
+height: 30px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* About */
+
+width: 59px;
+height: 30px;
+
+/* Title */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+letter-spacing: 0.1px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 19px;
+
+width: 121px;
+height: 153px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 47px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Home */
+
+width: 47px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 75px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Examples */
+
+width: 75px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 56px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Pricing */
+
+width: 56px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Link */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 10px;
+
+width: 65px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Updates */
+
+width: 65px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* row */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 319px;
+height: 190.99px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* block */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 319px;
+height: 46px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* bx:bx-map */
+
+width: 46px;
+height: 46px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 33.33%;
+right: 33.33%;
+top: 25%;
+bottom: 41.67%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.67%;
+right: 16.67%;
+top: 8.33%;
+bottom: 8.33%;
+
+/* light text */
+background: #FFFFFF;
+
+
+/* adress */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px 8px;
+
+width: 273px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 7480 Mockingbird Hill undefined */
+
+width: 257px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* block */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+
+width: 176px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ic:baseline-phone-android */
+
+width: 35px;
+height: 35px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 20.83%;
+top: 4.17%;
+bottom: 4.17%;
+
+/* light text */
+background: #FFFFFF;
+
+
+/* adress */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 10px;
+gap: 10px;
+
+width: 141px;
+height: 44px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* (239) 555-0108 */
+
+width: 121px;
+height: 24px;
+
+/* Link */
+font-family: 'Graphik';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+letter-spacing: 0.2px;
+
+/* light text */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* social media */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 20px 0px;
+gap: 24px;
+
+width: 170.96px;
+height: 80.99px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* ant-design:twitter-outlined */
+
+width: 40.99px;
+height: 40.99px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 9.37%;
+right: 9.37%;
+top: 16.99%;
+bottom: 16.99%;
+
+/* light text */
+background: #FFFFFF;
+
+
+/* ant-design:facebook-filled */
+
+width: 40.99px;
+height: 40.99px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.94%;
+right: 10.94%;
+top: 10.94%;
+bottom: 10.94%;
+
+/* light text */
+background: #FFFFFF;
+
+
+/* ant-design:linkedin-filled */
+
+width: 40.99px;
+height: 40.99px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.94%;
+right: 10.93%;
+top: 10.94%;
+bottom: 10.94%;
+
+/* light text */
+background: #FFFFFF;
+
+
+/* image 16 */
+
+position: absolute;
+width: 1165px;
+height: 730px;
+left: calc(50% - 1165px/2 + 0.5px);
+top: 584px;
+
+background: url(image.png);
